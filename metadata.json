@@ -1,0 +1,6 @@
+{
+  "name": "Public Chat",
+  "description": "Простой общий чат в стиле Telegram, работает в реальном времени.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
